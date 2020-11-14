@@ -63,10 +63,41 @@ As it was the coolest tech to learn, i'm always testing things and creating idea
 
 <br>
 
-- Popular libraries that has to do with React that i know:
+- Popular libraries and tools that has to do with React that i know:
   - Axios
   - Redux
   - Styled-components
   - Polished
+  - Typescript
+
+---
+
+<a href="https://www.mongodb.com/" target="_blank">
+    <img
+      src="https://pplware.sapo.pt/wp-content/uploads/2016/05/nodejs_04.jpg"
+      alt="React"
+      width="100"
+      height="40"
+    />
+</a>
+<br>
+I started learning NodeJS together with React, since then, i created CRUD REST API's using Express and Sequelize. which is the libraries i like the most to create this kind of thing. I had my first job with NodeJS when i had to create a backend for a React application. There i used MVC pattern and all REST rules. I implemented authentication using jsonwebtoken and encrypting using bcrypt.<br><br>
+That was not the only project i did with Node. I also created a backend to my TCC RPG game, which can save user points, create user, and all the stuffs that normal online games does, but what i learnt of different is to send emails using Node.<br><br>
+I also created a simple watermark system, that receives an image and apply some text into it. i did this by using multer.
+<br>
+
+<br>
+
+- Popular Node libraries and tools i know:
+  - Nodemon
+  - BrowserSync
+  - EJS
+  - Sequelize
+  - Express
+  - Jsonwebtoken
+  - Bcrypt
+  - Nodemailer
+  - Typescript
+  - Multer
 
 ---
