@@ -45,3 +45,28 @@ Creating bots and API's was not the only thing i did with python, i also wrote s
   - Beautiful Soup
 
 ---
+
+<a href="https://www.mongodb.com/" target="_blank">
+    <img
+      src="https://www.webhozz.com/code/wp-content/uploads/2020/01/logo-reactjs.jpg"
+      alt="React"
+      width="100"
+      height="50"
+    />
+</a>
+<br>
+I started learning React 1 year ago, was the most fast and cool tech to learn for me, that used my own way; by reading documentation and trying each lesson. I got my first job with React 7 months  ago, there i had to create a document editor  from zero with a lot of functionalities, these features include load more, agrouping of documents, switching groups from tabs, assigning a group to a user, all admin functionalities and etc.
+My knowledge in React is focused in most recent versions, which is using functional components, but i also learnt class components just for feel the improves.
+As it was the coolest tech to learn, i'm always testing things and creating ideas, i know each one hook, and also how to create my own, and this combined with my experience brings me the feel that i can create everything i want with React :)
+
+<br>
+
+<br>
+
+- Popular libraries that has to do with React that i know:
+  - Axios
+  - Redux
+  - Styled-components
+  - Polished
+
+---
