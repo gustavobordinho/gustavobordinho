@@ -114,7 +114,7 @@ I also created a simple watermark system, that receives an image and apply some 
     />
   </a>
  
-  <a href="https://www.typescriptlang.org/" target="_blank">
+  <a href="https://git-scm.com" target="_blank">
     <img
       src="https://raw.githubusercontent.com/devicons/devicon/40cd6bc89a299dc50ac289f8e3b071d0dff49d9c/icons/git/git-original.svg"
       alt="Git"
@@ -122,7 +122,7 @@ I also created a simple watermark system, that receives an image and apply some 
       height="40"
     />
   </a>
-  <a href="https://www.typescriptlang.org/" target="_blank">
+  <a href="https://yarnpkg.com" target="_blank">
     <img
       src="https://raw.githubusercontent.com/devicons/devicon/40cd6bc89a299dc50ac289f8e3b071d0dff49d9c/icons/yarn/yarn-original.svg"
       alt="Yarn"
@@ -130,7 +130,7 @@ I also created a simple watermark system, that receives an image and apply some 
       height="40"
     />
   </a>
-  <a href="https://www.typescriptlang.org/" target="_blank">
+  <a href="https://www.npmjs.com" target="_blank">
     <img
       src="https://raw.githubusercontent.com/devicons/devicon/40cd6bc89a299dc50ac289f8e3b071d0dff49d9c/icons/npm/npm-original-wordmark.svg"
       alt="NPM"
@@ -157,7 +157,7 @@ I also created a simple watermark system, that receives an image and apply some 
     />
   </a>
   
-  <a href="https://www.typescriptlang.org/" target="_blank">
+  <a href="https://www.mysql.com" target="_blank">
     <img
       src="https://raw.githubusercontent.com/devicons/devicon/40cd6bc89a299dc50ac289f8e3b071d0dff49d9c/icons/mysql/mysql-original.svg"
       alt="MySQL"
@@ -166,7 +166,7 @@ I also created a simple watermark system, that receives an image and apply some 
     />
   </a>
 
-   <a href="https://www.typescriptlang.org/" target="_blank">
+   <a href="https://pt.wikipedia.org/wiki/Linux" target="_blank">
     <img
       src="https://raw.githubusercontent.com/devicons/devicon/40cd6bc89a299dc50ac289f8e3b071d0dff49d9c/icons/linux/linux-original.svg"
       alt="Linux"
@@ -174,7 +174,7 @@ I also created a simple watermark system, that receives an image and apply some 
       height="40"
     />
   </a>
-  <a href="https://www.typescriptlang.org/" target="_blank">
+  <a href="https://redux.js.org" target="_blank">
     <img
       src="https://raw.githubusercontent.com/devicons/devicon/40cd6bc89a299dc50ac289f8e3b071d0dff49d9c/icons/redux/redux-original.svg"
       alt="Redux"
@@ -182,7 +182,7 @@ I also created a simple watermark system, that receives an image and apply some 
       height="40"
     />
   </a>
-  <a href="https://www.typescriptlang.org/" target="_blank">
+  <a href="https://sequelize.org" target="_blank">
     <img
       src="https://raw.githubusercontent.com/devicons/devicon/40cd6bc89a299dc50ac289f8e3b071d0dff49d9c/icons/sequelize/sequelize-original.svg"
       alt="Sequelize"
@@ -210,7 +210,7 @@ I also created a simple watermark system, that receives an image and apply some 
       height="40"
     />
   </a>
-  <a href="https://www.typescriptlang.org/" target="_blank">
+  <a href="https://www.php.net/" target="_blank">
     <img
       src="https://raw.githubusercontent.com/devicons/devicon/40cd6bc89a299dc50ac289f8e3b071d0dff49d9c/icons/php/php-original.svg"
       alt="PHP"
@@ -218,7 +218,7 @@ I also created a simple watermark system, that receives an image and apply some 
       height="40"
     />
   </a>
-  <a href="https://www.typescriptlang.org/" target="_blank">
+  <a href="https://docs.oracle.com/en/java/javase/15/" target="_blank">
     <img
       src="https://raw.githubusercontent.com/devicons/devicon/40cd6bc89a299dc50ac289f8e3b071d0dff49d9c/icons/java/java-original.svg"
       alt="Java"
@@ -226,7 +226,7 @@ I also created a simple watermark system, that receives an image and apply some 
       height="40"
     />
   </a>
-  <a href="https://www.typescriptlang.org/" target="_blank">
+  <a href="https://docs.microsoft.com/pt-br/dotnet/csharp/" target="_blank">
     <img
       src="https://raw.githubusercontent.com/devicons/devicon/40cd6bc89a299dc50ac289f8e3b071d0dff49d9c/icons/csharp/csharp-original.svg"
       alt="C#"
@@ -234,7 +234,7 @@ I also created a simple watermark system, that receives an image and apply some 
       height="40"
     />
   </a>
-  <a href="https://www.typescriptlang.org/" target="_blank">
+  <a href="https://docs.microsoft.com/pt-br/cpp/?view=msvc-160" target="_blank">
     <img
       src="https://raw.githubusercontent.com/devicons/devicon/40cd6bc89a299dc50ac289f8e3b071d0dff49d9c/icons/c/c-original.svg"
       alt="C/C++"
@@ -242,7 +242,7 @@ I also created a simple watermark system, that receives an image and apply some 
       height="40"
     />
   </a>
-   <a href="https://www.typescriptlang.org/" target="_blank">
+   <a href="https://pt.wikipedia.org/wiki/HTML5" target="_blank">
     <img
       src="https://raw.githubusercontent.com/devicons/devicon/40cd6bc89a299dc50ac289f8e3b071d0dff49d9c/icons/html5/html5-plain.svg"
       alt="HTML 5"
@@ -250,7 +250,7 @@ I also created a simple watermark system, that receives an image and apply some 
       height="40"
     />
   </a>
-   <a href="https://www.typescriptlang.org/" target="_blank">
+   <a href="https://developer.mozilla.org/pt-BR/docs/Web/CSS" target="_blank">
     <img
       src="https://raw.githubusercontent.com/devicons/devicon/40cd6bc89a299dc50ac289f8e3b071d0dff49d9c/icons/css3/css3-original.svg"
       alt="CSS"
@@ -259,7 +259,7 @@ I also created a simple watermark system, that receives an image and apply some 
     />
   </a>
 
-   <a href="https://www.typescriptlang.org/" target="_blank">
+   <a href="https://gulpjs.com" target="_blank">
     <img
       src="https://raw.githubusercontent.com/devicons/devicon/40cd6bc89a299dc50ac289f8e3b071d0dff49d9c/icons/gulp/gulp-plain.svg"
       alt="Gulp"
