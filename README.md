@@ -19,7 +19,7 @@
 
 <br>
 
-## 💻 Knowledge
+## 💻 Main Knowledges
 
 <a href="https://www.mongodb.com/" target="_blank">
     <img
