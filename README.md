@@ -1,4 +1,4 @@
-<p align="left">
+<p align="center">
   <a href="#">
     <img align="center" width="310" src="me.gif" />
   </a>
