@@ -31,7 +31,7 @@
 </a>
 <br>
 I started learning python two years ago, since then, i have been doing some cool stuffs with it, like creating bots and automatization scripts. I got my first job with python in early 2020, there my job was to create bots which could scrape data from different sites, i also did an UI that can connect to the bots and run them just by clicking a button.
-Creating bots and API's is not the only thing i do with python, i already wrote scripts to convert data from MySQL to PostgreSQL changing its structure, and i am always automatizing my own jobs. Currently i"m focused on analyzing data and creating graphics over them!
+Creating bots and API's is not the only thing i do with python, i already wrote scripts to convert data from MySQL to PostgreSQL changing its structure, and i am always automatizing my own jobs. I'm currently focused on analyzing data and creating graphics over them!
 
 <br>
 
