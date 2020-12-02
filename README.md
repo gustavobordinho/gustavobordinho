@@ -62,7 +62,7 @@
     />
 </a>
 
-- Popular Node libraries and tools i know:
+- Libraries and tools:
   - Nodemon
   - BrowserSync
   - EJS
