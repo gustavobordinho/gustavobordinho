@@ -12,10 +12,11 @@
 
 <br>
 
-## 🌎 Contact me!
+## 🌎 Where to find me?
 
 - 📧 Send me an [E-mail](mailto:gustavo.bordin@unesp.br).
 - 🔝 Connect with me on [Linkedin](https://www.linkedin.com/in/gustavo-bordin/).
+- ⚫ Follow me on [Medium](https://gustavo-bordin.medium.com/)
 
 <br>
 
