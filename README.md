@@ -82,7 +82,7 @@
 <p align="left">
   <a href="https://www.docker.com/" target="_blank">
     <img
-      src="https://devicons.github.io/devicon/devicon.git/icons/docker/docker-original-wordmark.svg"
+      src="https://www.docker.com/sites/default/files/d8/2019-07/Moby-logo.png"
       alt="docker"
       width="40"
       height="40"
@@ -116,7 +116,7 @@
  
   <a href="https://www.mongodb.com/" target="_blank">
     <img
-      src="https://devicons.github.io/devicon/devicon.git/icons/mongodb/mongodb-original-wordmark.svg"
+      src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAPEAAADRCAMAAAAquaQNAAAAt1BMVEX///8SqVATmU+4xcISnk8So08AkTsAp0sAoz8AlkkApkcApEIAkj4SqFATmk8Ak0Hy+vW74sh1xpFTuniCy5vO6tiz2cGbza29xsb1+/fq9u5ct32038IAljI3s2UAnEOIxJ6k2LZ0u4+Y1K3Z7eBAp2lPuXVpwYi63Maj0bRktIPG49EooFtfv4GQx6SQ0advtokusGB4uZKcw66txboyoGFXqHiRv6TZ4t/N1tTv8fHZ396wv7w/zounAAAEa0lEQVR4nO2ciVbbMBBFbaWx4yx22NoEKCVlaymUvRTI/39XnZXY1vgESDSd8btfMPeMNJJGsj0PAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA/if6O9wRuGZ3jzsC1+x/3eUOwTEH3w65Q3DLoFUPutxBuGSj4dej79xROOSo4ft10z7mjsMZm6mw3zHRCXcgrthq+mNjkxxyh+KG07HwyNi0f3MH44JJhifGJvjCHc76OZsKT4xN8JM7oHWz3fIzxib4wR3Sehk0/DkT4zhQfaTYWRCeGqcVW/Gy3A19i3EU97kDWxuzMj0hniur3YkMWr7V2CS33KGth+OGTxibts6CfRCSxibR2B7Ijemsscap3M0LZ4xNom/vdRaWGsfqxnW+bOWNTXTOHeKKOS2kOGdsgl/cMa6UnWKK88bxBXeQK8WS4ryxST5zR7lCbCn2P+WMY8Md5gq5tKS4kGNNK9SuLcWFHJs45g50ZVw1lzJWNJNtvjZjNeV6o7DBJIxNW8maXNxgUsZKNl59e4ptxkp218SgthmbSEXHnhjUVuP4gTvaVUCk2GpsAgWtXOsOkzSOFNy9HVm3H5Sxhs217dhEG5tAfLXuU8KEsfzjhKXdU2ociX/Ztk+VasLYRNJvobapwkUZt6Xfrm69cR7LX586lDBpLPx6ok8WLso4Trhj/hh0qaaMjfD3mtTBqcQ4kd0WoBcn2lj2ZbK9qVdqLLxY08sxbSz7FfImuRzTxtfcQX+I9xjLbu9RLZ8yY9lbEOuNU7mx8D59iXFdp3HJqFZqXFK5SGPZHdxNej2mjIV3QUp2IKSx7PWY7N2WGMvec5WcnUhj2S9xyRsJ2lj4S4HuO4xlnxZL+lyUsfTPGeleJmnMHfIHoYs1YSz8IJGWLrJYU8ayD4ue139rjuVftZG3qYSx9MLleQMqyYSx/KeK9keZpLH4aewVv/opNxa+4xpDDWviVYT062PP9t1PibHww/GU5d9l6hjU5PnJnmPuYFeDvXZZ32XKPhvP2Vjuq4GUtvjXXFNubEnW+77aI5Jc+BZGxzvUKct84aVlaZpgew6iOsW2Tn2nmGLZjeo8hWFtMZb9yCdPoXgVjOW3AnKc5cb1TT7D0vtbRTqZgR1uZYVjNZuPV7L1OjzPGre1jekRiz9u8pu3F5nfY6jZbWVYXKKadxljBR+EWFnYejXvHxaM1f6xqv9avcL7P9G8ain7T8Qi3XCm3Ondzo0DFY0Pgt2pcnjTu5sZK/+h4nFzrBzu9WpJJYRnyuF1r3cSj+ewduF0YI/KV/Ox1ntMRlstzXN4RvegmS5OtVrtIYoi6V83LcllK+ylxvfRia4DYglXeyPjWo07Dof8HQs/cYfhkOex8Qt3GA55HqbCw2fuMFwyrNg0rqJx1QqX5z1VrHBNjCtVuLyXqpXq8YLMHYNbRgsydwyOGdZ63CE4pmqLU2o8rNbilE7kalVqAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAH38AwfGQeF6i3L/AAAAAElFTkSuQmCC"
       alt="mongodb"
       width="40"
       height="40"
